@@ -5932,6 +5932,7 @@ broken-packages:
   - HLearn-classification
   - HLearn-datastructures
   - HLearn-distributions
+  - hledger-api
   - hlibBladeRF
   - hlibev
   - hlibfam
