@@ -2461,7 +2461,7 @@ package-maintainers:
   cdepillabout:
     - pretty-simple
     - purescript
-    # - spago
+    - spago
     - termonad
 
 unsupported-platforms:
@@ -9493,7 +9493,6 @@ broken-packages:
   - SpaceInvaders
   - spacepart
   - SpacePrivateers
-  - spago
   - spake2
   - spanout
   - sparkle
