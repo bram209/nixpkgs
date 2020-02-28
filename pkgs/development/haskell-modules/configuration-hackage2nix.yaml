@@ -2438,13 +2438,13 @@ package-maintainers:
   gridaphobe:
     - located-base
   jb55:
-    - bson-lens
+    # - bson-lens
     - cased
     - elm-export-persistent
-    - pipes-mongodb
+    # - pipes-mongodb
     - streaming-wai
   kiwi:
-    - glirc
+    # - glirc
     - matterhorn
     - Unique
   psibi:
@@ -2461,7 +2461,7 @@ package-maintainers:
   cdepillabout:
     - pretty-simple
     - purescript
-    - spago
+    # - spago
     - termonad
 
 unsupported-platforms:
@@ -3281,6 +3281,7 @@ broken-packages:
   - bson
   - bson-generic
   - bson-generics
+  - bson-lens
   - bsparse
   - btree
   - btree-concurrent
@@ -5121,6 +5122,7 @@ broken-packages:
   - gli
   - glicko
   - glider-nlp
+  - glirc
   - GLMatrix
   - glob-posix
   - global
@@ -7578,6 +7580,7 @@ broken-packages:
   - mtlx
   - mtp
   - mu-grpc-client
+  - mu-grpc-common
   - mu-grpc-server
   - mu-protobuf
   - MuCheck
@@ -8241,6 +8244,7 @@ broken-packages:
   - pipes-io
   - pipes-key-value-csv
   - pipes-lzma
+  - pipes-mongodb
   - pipes-p2p
   - pipes-p2p-examples
   - pipes-protolude
@@ -9489,6 +9493,7 @@ broken-packages:
   - SpaceInvaders
   - spacepart
   - SpacePrivateers
+  - spago
   - spake2
   - spanout
   - sparkle
